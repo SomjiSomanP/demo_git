@@ -26,4 +26,6 @@
         } 
 
         print_r($mail->Send());
+        die();
+        khjkjh
 ?>

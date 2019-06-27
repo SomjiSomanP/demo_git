@@ -27,5 +27,5 @@
 
         print_r($mail->Send());
         die();
-        khjkjh
+        1111
 ?>
